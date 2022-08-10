@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/tbd/static/css/main.073c9b0a.css",
-    "main.js": "/tbd/static/js/main.99e04a3e.js",
-    "static/js/787.28cb0dcd.chunk.js": "/tbd/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/tbd/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/tbd/static/css/main.732f4cdd.css",
+    "main.js": "/tbd/static/js/main.0849af4d.js",
+    "static/media/photo-grid.png": "/tbd/static/media/photo-grid.294d59b66b94e0e456cf.png",
+    "static/media/mountain-bike.png": "/tbd/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
+    "static/media/wedding-photography.png": "/tbd/static/media/wedding-photography.62dfa0af6d4f23912427.png",
+    "static/media/pumpkin.png": "/tbd/static/media/pumpkin.2acbcd5c1048bbf9ec0b.png",
+    "static/media/katie-zaferes.png": "/tbd/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
+    "static/media/felix.png": "/tbd/static/media/felix.b40c9cc223c39660d527.png",
+    "static/media/fluffykins.png": "/tbd/static/media/fluffykins.239d6a743311a30ce2cb.png",
+    "static/media/mr-whiskerson.png": "/tbd/static/media/mr-whiskerson.d8194635a0fe9928c0de.png",
+    "static/media/airbnb-logo.png": "/tbd/static/media/airbnb-logo.e4424517383d14a03a24.png",
     "index.html": "/tbd/index.html",
-    "main.073c9b0a.css.map": "/tbd/static/css/main.073c9b0a.css.map",
-    "main.99e04a3e.js.map": "/tbd/static/js/main.99e04a3e.js.map",
-    "787.28cb0dcd.chunk.js.map": "/tbd/static/js/787.28cb0dcd.chunk.js.map"
+    "main.732f4cdd.css.map": "/tbd/static/css/main.732f4cdd.css.map",
+    "main.0849af4d.js.map": "/tbd/static/js/main.0849af4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.99e04a3e.js"
+    "static/css/main.732f4cdd.css",
+    "static/js/main.0849af4d.js"
   ]
 }
